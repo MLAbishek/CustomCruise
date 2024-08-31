@@ -1,4 +1,3 @@
-@@ -0,0 +1,110 @@
 # Custom Cruise
 
 Custom Cruise is a mobile application that allows users to customize their vehicles, shop for parts, connect with a community of car enthusiasts, and find nearby mechanics.
